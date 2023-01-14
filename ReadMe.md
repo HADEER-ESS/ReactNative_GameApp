@@ -2,7 +2,7 @@
 
 <h1>Application Description</h1>
 
-<h3>Techniques</h3>
+<h3>Technology</h3>
 <p>-Context for state management</p>
 <p>-Firebase Authentication</p>
 <p>-Nested Navigation (Tab , Drawer, Stack) navigation</p>
